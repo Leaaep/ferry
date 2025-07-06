@@ -1,0 +1,6 @@
+# intellj
+.idea
+*.iml
+
+# env file
+.env

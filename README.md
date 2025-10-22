@@ -1,10 +1,11 @@
 # Ferry
 
 ## Contributors
-Leaaep und Francesco
+Backend by Leaaep
+Frontend by [Francesco](https://github.com/Francesco070)
 
 ## Description
-A Ferry app.
+A Ferry booking app.
 
 ## Setup
 ### Run app with Docker
@@ -71,7 +72,6 @@ docker compose up -d --build
 4. http://localhost:5173/
 
 ## Links
-* [Figma](https://www.figma.com/design/Jg19r4zo6lJeaKQBWpHfQ5/Ferry?node-id=0-1&t=TGgfaO7ASuuUqsCx-1)
 * [MongoDB Cheatsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
 * [MongoDB Doc](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 

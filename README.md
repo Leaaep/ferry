@@ -2,6 +2,7 @@
 
 ## Contributors
 Backend by Leaaep
+
 Frontend by [Francesco](https://github.com/Francesco070)
 
 ## Description
